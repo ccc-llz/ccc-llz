@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gia Zheng</h1>
+<h1 align="center">Hi, I'm Gia Zheng</h1>
 <h3 align="center">A passionate full-stack developer from China, still learning and keep improving coding skills</h3>
 
 - 📫 How to reach me **chiale1123@gmail.com**
